@@ -7,7 +7,7 @@ docker build -t iris-api .
 docker run -p 8000:80 iris-api
 ```
 
-### Примеры запросо
+### Примеры запросов
 
 Запрос:
 ```
